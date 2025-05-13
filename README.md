@@ -20,12 +20,12 @@ This project provides a tool for converting C code into Promela (the modeling la
 
 1. Clone this repository or download the files.
 2. Run the following command to install necessary packages 
-        ```bash
+   ```bash
     pip install pycparser
     pip install tkinter
     ```
 
- 3. Run the GUI:
+ 4. Run the GUI:
     ```bash
-        python gui.py
+    python gui.py
     ```
